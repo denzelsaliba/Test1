@@ -1,0 +1,63 @@
+.header-purple {
+  color:#623dd1;
+  border-style:dotted;
+  border-color:black;
+  text-align: center;
+  font-family: "Arial";
+}
+
+#timetable {
+  border-color:black;
+  border-style:solid;
+
+}
+
+#timetable th {
+  border:1px solid black;
+}
+
+.table-header {
+  background-color:#d4d4d4;
+}
+
+.table-time {
+  font-weight: bold;
+  padding:10px;
+}
+
+.galleryImage
+{
+  width:300px;
+  padding:25px;
+}
+
+.menuItem
+{
+  font-weight:bold;
+  padding:10px;
+  color:grey;
+  width: 250px;
+  float:left;
+}
+
+.h2Style
+{
+  color:red;
+  border:1px solid black;
+}
+
+.menuPage4
+{
+  height:500px;
+  border: 1px solid black;
+  float:left;
+}
+
+.menuItem4{
+  height:20px;
+}
+
+.redtable{
+  background-color:red;
+  border:0px;
+}
